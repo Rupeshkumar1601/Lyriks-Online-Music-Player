@@ -1,4 +1,4 @@
-# Spotify-Clone
+# Lyriks
 
 ## Overview
  Lyriks is a React-based web application that serves as a fully functional mockup. 
@@ -15,7 +15,7 @@
 - **CSS:** For styling, with an emphasis on desktop optimization.
 
 ## Setup and Installation
-To get Spotify-Clone running locally:
+To get Lyriks running locally:
 
 1. Clone the repository: `git clone [repository URL]`
 2. Install dependencies: `npm install`
